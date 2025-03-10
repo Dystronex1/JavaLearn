@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26d83c42-6378-4ec2-9293-886ee1a682a9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2szfAdazSNUlLLcPmXHUCLn6NUy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Addition.executor": "Run",
+    "Application.ArrayProblem.executor": "Run",
+    "Application.ArrayTrial.executor": "Run",
+    "Application.HiFive.executor": "Run",
+    "Application.Lottery.executor": "Run",
+    "Application.Max.executor": "Run",
+    "Application.PrimeNumberMethod.executor": "Run",
+    "Application.RandomValue.executor": "Run",
+    "Application.Str.executor": "Run",
+    "Application.SubtractNumber.executor": "Run",
+    "Application.Sum.executor": "Run",
+    "Application.ok.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/USER/IdeaProjects/Question"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26d83c42-6378-4ec2-9293-886ee1a682a9" name="Changes" comment="" />
+      <created>1739463184432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739463184432</updated>
+    </task>
+    <servers />
+  </component>
+</project>
